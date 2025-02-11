@@ -1,0 +1,1 @@
+This error occurs when using the Expo `Camera` API and attempting to access the `takePictureAsync` method before the camera has finished loading.  This often results in an error that's not very descriptive, like a generic 'undefined' is not a function error.
